@@ -10,6 +10,8 @@ public class StudentInformation {
         studentInformation.studentName="arun";
         studentInformation.rollNumber="77";
         studentInformation.fatherName="kiran";
-        System.out.println(" student Details  : " + studentInformation.studentName);
+        System.out.println(" student Details  : " + studentInformation.studentName+"  "+
+
+                studentInformation.rollNumber);
     }
 }

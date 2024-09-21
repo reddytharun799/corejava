@@ -13,6 +13,8 @@ public class StudentInformation {
         System.out.println(" student Details  : " + studentInformation.studentName);
         System.out.println(" student Details  : " + studentInformation.rollNumber);
         System.out.println(" student Details  : " + studentInformation.fatherName);
+        System.out.println(" student Details  : " + studentInformation.rollNumber);
+        System.out.println(" student Details  : " + studentInformation.fatherName);
         System.out.println(" student Details  : " + studentInformation.studentName+"  "+
 
                 studentInformation.rollNumber+"  "+studentInformation.fatherName);

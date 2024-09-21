@@ -12,6 +12,6 @@ public class StudentInformation {
         studentInformation.fatherName="kiran";
         System.out.println(" student Details  : " + studentInformation.studentName+"  "+
 
-                studentInformation.rollNumber);
+                studentInformation.rollNumber+"  "+studentInformation.fatherName);
     }
 }

@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3fa4522-bf10-4551-b373-9ae9e97859b8" name="Changes" comment="Merge branch 'Develop' of https://github.com/7993327098/corejava into product&#10;&#10;# Conflicts:&#10;#&#9;src/student/StudentInformation.java">
-      <change beforePath="$PROJECT_DIR$/src/student/StudentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/student/StudentInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/new file1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
   "keyToString": {
     "Application.StudentInformation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Student",
+    "git-widget-placeholder": "#1 on Student",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/reddytharun/IdeaProjects/corejava"
   }

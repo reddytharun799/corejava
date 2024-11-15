@@ -8,7 +8,6 @@ public class ServerConnection {
         if (serverErrorOccurred) {
             throw new ServerErrorException("Failed to connect to the server. Please try again later.");
         }
-
         // If no error, continue with successful connection logic
         System.out.println("Connected to the server successfully.");
     }
